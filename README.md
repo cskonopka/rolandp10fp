@@ -6,7 +6,7 @@
 
 current formats
 ========
-- input: .mp4 (* this will be expanded in the future)
+- input: .mp4/.mov/.avi (* this will be expanded in the future)
 - output: .mpg
 
 requirements
@@ -17,8 +17,7 @@ requirements
 
 how to use
 ========
-1. Open up the Terminal
-2. Run the script "python rolandp10fp.py [directory]". The directory is the location of the files that will be converted. The file ouput of the script will be placed in the directory previously specified.
-    - ex. python rolandp10fp.py /Users/csk/Documents/videos
-3. You're done! The exported files will be in the format .mpg which converts correctly when used with the Roland software P-10 Image Converter Lite. 
-
+1. First, place the files you wish to convert in the folder labeled "raw-videos"
+2. Open the terminal and change the directory to this folder (rolandp10fp)
+3. Run the script by typing "python rolandp10fp.py". Automatically a new folder named "converted" will be created and filled with videos with the extension ".mpg".
+4. You're done! All the files in the folder named "converted" are now properly encoded and can be converted correctly using the "Roland P-10 Image Converter Lite" application for the Roland P-10 video sampler
