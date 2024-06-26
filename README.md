@@ -1,8 +1,8 @@
-<h1 align="center">Roland P10 FP</h1>
-<h3 align="center">File preperation script for the Roland's P-10 Image Converter Lite</h3>
-<h3 align="center">
-  <img src="http://i.imgur.com/isx076I.jpg"/>
-</h3>
+<p align="center">
+  <img width="35%" height="35%" src="https://github.com/cskonopka/rolandp10fp/blob/master/img/rolandp10fp-logo.png?raw=true"/>
+</p> 
+
+<p align="center"><em>File preperation script for the Roland's P-10 Image Converter Lite</em></p>
 
 current formats
 ========
